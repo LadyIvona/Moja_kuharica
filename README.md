@@ -88,7 +88,7 @@ Ukaze izvajaj iz terminala. Pot do projekta spodaj zamenjaj s svojo lokacijo.
 Če projekt kloniraš iz GitHuba:
 
 ```bash
-git clone <URL-repozitorija>
+git clone https://github.com/LadyIvona/Moja_kuharica.git
 cd ReceptiAplikacija
 ```
 
