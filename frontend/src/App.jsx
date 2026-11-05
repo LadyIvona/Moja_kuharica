@@ -7,6 +7,7 @@ const emptyForm = {
   proteinPer100g: '', fatPer100g: '', fiberPer100g: '',
 };
 
+
 function recipePayload(values) {
   return {
     ...values,
