@@ -1,0 +1,6 @@
+**/target/
+**/node_modules/
+**/dist/
+.m2/
+.npm-cache/
+.DS_Store
